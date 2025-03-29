@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="calculoIMC_pesoDescr">Digite seu peso (kg)</string>
+    <string name="calculoIMC_alturaDescr">Digite sua altura (m)</string>
+
+    <string name="calculoIMC_calcButton">Calcular IMC</string>
+    <string name="calculoIMC_resetButton">Limpar</string>
+    <string name="backButton">Fechar</string>
+
+    <string name="abaixoDoPeso_titulo">Abaixo do Peso</string>
+    <string name="abaixoDoPeso_fraseMotivador">"Seu corpo é único e merece ser fortalecido! Cuide-se com carinho e nutra-se bem."</string>
+
+    <string name="pesoNormal_titulo">Peso Normal</string>
+    <string name="pesoNormal_fraseMotivador">"Você está no caminho certo! Seu equilíbrio reflete seu cuidado consigo mesmo."</string>
+
+    <string name="sobrepeso_titulo">Sobrepeso</string>
+    <string name="sobrepeso_fraseMotivador">"Seu bem-estar vai além dos números! Cada escolha saudável é um passo para mais vitalidade."</string>
+
+    <string name="obesidade1_titulo">Obesidade Grau 1</string>
+    <string name="obesidade1_fraseMotivador">"Você tem a força para alcançar seus objetivos! Pequenos passos levam a grandes conquistas."</string>
+
+    <string name="obesidade2_titulo">Obesidade Grau 2</string>
+    <string name="obesidade2_fraseMotivador">"Seu corpo merece amor e cuidado! A cada dia, você pode transformar sua saúde com escolhas positivas."</string>
+
+    <string name="obesidade3_titulo">Obesidade Grau 3</string>
+    <string name="obesidade3_fraseMotivador">"Você é muito mais do que um número! Seu valor está na sua determinação e na sua jornada."</string>
+</resources>
